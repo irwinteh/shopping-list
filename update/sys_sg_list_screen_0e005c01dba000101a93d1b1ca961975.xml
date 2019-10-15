@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>Mobile shopping list Store</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Cart">b1001cc9db6000101a93d1b1ca9619c8</icon>
+        <name>Stores</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-15 11:13:49</sys_created_on>
+        <sys_id>0e005c01dba000101a93d1b1ca961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Stores</sys_name>
+        <sys_package display_value="Shopping List" source="x_380380_shopping">fd7b0889db6000101a93d1b1ca961944</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">fd7b0889db6000101a93d1b1ca961944</sys_scope>
+        <sys_update_name>sys_sg_list_screen_0e005c01dba000101a93d1b1ca961975</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-15 11:13:49</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=0e005c01dba000101a93d1b1ca961975"/>
+</record_update>
